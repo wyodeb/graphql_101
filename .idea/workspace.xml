@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b20aee2-0256-4a26-9598-d4b2e1fa6c15" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/graphql-tutorial.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/graphql/mutations/create_link.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/graphql/types/base_mutation.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/graphql/mutations/create_link_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/graphql/mutations/base_mutation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/graphql/mutations/base_mutation.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/graphql/types/base_input_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/graphql/types/base_input_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/graphql/types/mutation_type.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/graphql/types/mutation_type.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Ruby Module" />
+        <option value="Ruby Class" />
+        <option value="Minitest Spec" />
       </list>
     </option>
   </component>
@@ -37,9 +41,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultRubyCreateTestTemplate": "Minitest Spec",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/work/Projects/graphql-tutorial",
     "nodejs_package_manager_path": "npm",
@@ -164,6 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660209652107</updated>
       <workItem from="1660209653283" duration="2509000" />
+      <workItem from="1660217510431" duration="3621000" />
     </task>
     <servers />
   </component>
